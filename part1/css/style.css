@@ -44,6 +44,8 @@ h1, h2 {
 #sidebar {
 	float: right;
 	width: 350px;
+	margin-left: 20px;
+	
 }
 
 #calculators {
